@@ -1,0 +1,18 @@
+---
+:id: 212755328
+:submitters:
+- :name: Ryan Shaikh
+  :email: mt1221923@maths.iitd.ac.in
+- :name: Arunabh Roy
+  :email: cs5221642@iitd.ac.in
+- :name: Raj Chandak
+  :email: cs5221643@iitd.ac.in
+- :name: Ansh Agrawal
+  :email: cs5221135@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-15 04:03:49.232879000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-14 20:03:49.232879000 Z
+:status: processed
+:score: 50.0
